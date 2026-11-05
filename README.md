@@ -45,8 +45,8 @@ LSTM emerged as the most accurate model for daily sales forecasting, highlightin
 🖥️ Tech Stack
 Python, Jupyter Notebook
 pandas, numpy, matplotlib, seaborn
-statsmodels, prophet, xgboost
+statsmodels, prophet
 tensorflow / keras, scikit-learn
-Chanikya Kothi — Data Science and Machine Learning Enthusiast
+
 
 ⭐ If you found this project useful, feel free to ⭐ star the repository and connect for collaboration or feedback!
